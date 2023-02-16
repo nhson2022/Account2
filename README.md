@@ -1,4 +1,4 @@
-# Account 2
+# Account 2 - Setup Authentication
 
 ## Setup git access
 ```
